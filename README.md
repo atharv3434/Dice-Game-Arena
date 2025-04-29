@@ -2,7 +2,7 @@
 
 
 🎮 Project Title: Virtual Dice Game Arena
-📋 Project Description:
+
 The Virtual Dice Game Arena is a console-based multiplayer dice game that allows 2–4 players to:
 
 Roll a die in turns.
